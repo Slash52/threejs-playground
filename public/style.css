@@ -1,0 +1,12 @@
+div.main {
+  position: absolute;
+}
+h2 {
+}
+canvas {
+  width: 80vw;
+  height: 70vw;
+  margin: auto;
+  border: solid 1px black;
+  top: 0;
+}
